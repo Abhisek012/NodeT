@@ -1,0 +1,11 @@
+{
+  "name": "day_3",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+   "start": "node index.js"
+  },
+  "author": "Abhi",
+  "license": "ISC",
+  "description": ""
+}

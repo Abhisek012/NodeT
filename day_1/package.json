@@ -1,0 +1,13 @@
+{
+  "name": "day_1",
+  "version": "1.0.0",
+  "description": "this is my first day on node js",
+  "main": "hello.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node hello.js",
+    "author": "Abhi",
+    "license": "ISC"
+  }
+ 
+}
